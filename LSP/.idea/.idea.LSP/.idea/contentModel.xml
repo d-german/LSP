@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\CS236-projects\LSP\LSP" t="IncludeRecursive">
+      <e p="AdderBase.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="LSP.csproj" t="IncludeRecursive" />
+      <e p="LSP.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="LSP.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\dgerman\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dgerman\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_LSP.-246217406.00" t="ExcludeRecursive" />
+  </component>
+</project>
